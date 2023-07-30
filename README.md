@@ -21,9 +21,7 @@ The data used for this analysis is in the CSV format and contains the following 
 The project is structured as follows:
 
 - `datasets/`: Folder containing the dataset used for the analysis.
-- `notebooks/`: Jupyter Notebooks containing the data exploration, analysis, and visualization.
-- `figures/`: Folder containing visualizations and images generated during the analysis.
-- `ab_test.py`: Python script with functions for performing A/B testing, ANOVA, and Tukey's HSD post-hoc test.
+- `plots/`: Folder containing visualizations and images generated during the analysis.
 - `requirements.txt`: List of required Python packages and their versions.
 
 ## Analysis
