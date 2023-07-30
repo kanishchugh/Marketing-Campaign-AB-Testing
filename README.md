@@ -1,7 +1,5 @@
 # A/B Test Project - Marketing Campaign Effectiveness
 
-![A/B Test](ab_test.jpg)
-
 ## Overview
 
 This repository contains the code and analysis for an A/B test conducted to evaluate the effectiveness of different marketing promotions. The goal of the project is to determine if there is a significant difference in sales between three different promotional strategies (Promotion 1, Promotion 2, and Promotion 3) and identify which promotions lead to higher sales.
